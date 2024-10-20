@@ -145,18 +145,13 @@ This setup provides insights into the security measures and response strategies 
 
 The following technologies and tools are utilized in this project:
 
-- **Web Server**: 
-- Nginx
+- **Web Server**: Nginx
 
-- **Backend**: 
-- Node.js
+- **Backend**: Node.js
 
-- **Frontend**: 
-- HTML, CSS, JavaScript (for displaying CIA Triad information)
+- **Frontend**: HTML, CSS, JavaScript (for displaying CIA Triad information)
 
-- **Virtualization**: 
-- Azure Virtual Machines
+- **Virtualization**: Azure Virtual Machines
 
-- **Network Security Tools**: 
-- Sniffing, Spoofing, DoS (custom server scripts)
+- **Network Security Tools**: Sniffing, Spoofing, DoS (custom server scripts)
 
