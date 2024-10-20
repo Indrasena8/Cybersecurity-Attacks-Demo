@@ -80,7 +80,7 @@ This project is a **web application** designed to provide an interactive learnin
      ```bash
      node server.js
      ```
-## Step 4: Configure Nginx on Main Host
+### Step 4: Configure Nginx on Main Host
 
 ### Prerequisites
 
@@ -120,7 +120,7 @@ This project is a **web application** designed to provide an interactive learnin
      ```bash
      sudo systemctl restart nginx
      ```
-## Step 5: Access the Application
+### Step 5: Access the Application
 
 Once Nginx is configured and running, you can access the web application by navigating to the Main Host's IP address or domain name in your web browser.
 
